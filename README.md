@@ -37,3 +37,14 @@ text
 
 Conclusion
 Knowledge representation is fundamental to the effectiveness of AI systems, enabling them to reason, learn, and make decisions based on structured information. Through various forms such as semantic networks, frames, and ontologies, AI can process complex knowledge and deliver intelligent solutions to real-world problems. The exploration of knowledge representation not only enhances AI capabilities but also deepens our understanding of how machines can emulate human-like reasoning and decision-making processes.
+
+Sources
+https://www.scaler.com/topics/artificial-intelligence-tutorial/knowledge-representation-in-ai/
+
+https://www.edureka.co/blog/knowledge-representation-in-ai/
+
+https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+
+https://www.geeksforgeeks.org/knowledge-representation-and-reasoning-techniques-support-intelligent-systems/
+
+https://www.javatpoint.com/knowledge-representation-in-ai
